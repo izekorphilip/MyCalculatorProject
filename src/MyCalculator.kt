@@ -43,6 +43,7 @@ fun main() {
     println("PHILIP ADVANCED CALCULATOR")
 // Loop repeats until user decides to stop
     while (continueCalculator) {
+        //type your entries
         print("\nEnter first number: ")
         val num1 = scanner.nextDouble()
         print("Enter second number: ")

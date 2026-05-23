@@ -13,7 +13,7 @@ My purpose for writing this software was to gain hands-on experience with Kotlin
 building a practical application. I also became more familiar with developing applications using IntelliJ IDEA
 and working with the Java Development Kit (JDK).
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/36ksGEER8OM)
 
 # Development Environment
 
